@@ -1,4 +1,3 @@
-### Olá sou o André Victor 👋
 
 <div>
   <a href="https://github.com/andrevictor06">
